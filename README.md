@@ -9,3 +9,14 @@ Questions this program will answer for you:
 How much of a down payment can you afford?
 If you can't afford it now, when will you be able to?
 
+Open up the console and type in:
+
+home(savings, costOfHome, downPayment)
+
+savings: How much you have in savings.
+
+costOfHome: Total cost of the home.
+
+downPayment: How much money you are willing/able to put down. Defaults to 20%. But can be changed to something more or less. 
+
+
